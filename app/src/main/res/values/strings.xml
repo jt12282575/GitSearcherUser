@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">GitSearcherUser</string>
+    <string name="retry">RETRY</string>
+    <string name="no_match">We couldn\'t find any user matching.</string>
+    <string name="no_more_result">No more search result.</string>
+    <string name="unknown_error">Sorry, something went wrong.</string>
+    <string name="git_api_limit">%1$s \n\n Git api usage limit will be reset at Chungyuan Standard Time %2$s</string>
+    <string name="zero">0</string>
+    <string name="parsing_error">Something went wrong when parsing.</string>
+    <string name="network_error">Sorry, please check your network.</string>
+    <string name="search_github_user">Search Github user</string>
+</resources>
